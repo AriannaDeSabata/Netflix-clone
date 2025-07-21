@@ -1,6 +1,17 @@
-🎬 Netflix UI Clone
+# 🎬 Netflix UI Clone
 
-Una semplice pagina di interfaccia ispirata a Netflix, realizzata come progetto di scuola con HTML, CSS e JavaScript.
-💻 Include un carousel per le immagini, gestito e arricchito con JavaScript per un’esperienza più dinamica.
+Replica dell'interfaccia utente di Netflix realizzata come esercitazione durante il corso Epicode.
 
-✨ Solo UI, senza funzionalità reali o backend — un esercizio per imparare le basi del front-end.
+## 🧰 Tecnologie
+
+- HTML5
+- CSS3(Flexbox, Grid, media queries per responsive design)
+- JavaScript (Vanilla)
+
+## 🎯 Scopo del progetto
+
+Realizzare una single‑page application (SPA)*statica ispirata alla UI di Netflix. Non è funzionante dal punto di vista backend; , con particolare attenzione a:
+
+- Organizzazione dei contenuti
+- Layout per diversi dispositivi
+- Cura dei dettagli visivi
