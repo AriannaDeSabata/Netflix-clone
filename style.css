@@ -134,10 +134,7 @@ section:nth-of-type(2),section:nth-of-type(3 ),section:nth-of-type(4){
 .scroll{
     animation: scroll 1s ease-in forwards;
 }
-.removeScroll{
-    animation:  scroll 1s ease-out ;
-    animation-direction: reverse;
-}
+
 
 @keyframes scroll {
     from{opacity: 0;}

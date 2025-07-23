@@ -15,8 +15,13 @@ items.forEach((el) => {
 })
 
 let contCarousel = document.querySelectorAll("section.menuFilm ~ section")
-console.log(contCarousel)
+contCarousel.forEach((el, i)=>{
+    el.classList.add("scroll")
+    el.style.animationDelay =`${i * 0.5}s`
+})
 
+
+/*
 window.addEventListener("scroll", show);
 
 function show() {
@@ -27,4 +32,4 @@ function show() {
         }
     })
  
-}
+}*/
